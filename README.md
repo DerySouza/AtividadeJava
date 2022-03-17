@@ -1,3 +1,3 @@
-Exercício em JAVA que simula um sistema de cadastro e busca de livros.
+Exercício em java que simula um sistema de cadastro e busca de livros.
 
 Você pode visualizar a resolução aqui : https://youtu.be/uIyPrpZxzoE
